@@ -28,3 +28,10 @@ ___________________________________________________
 3rd 
     - style.css
         : added styling for the center ball of the logo
+
+___________________________________________________
+
+4th
+    - style.css
+        : created the ellipses for the logo
+        : added styling for .ellipse and .ellipse1-3

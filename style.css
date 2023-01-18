@@ -24,3 +24,27 @@ body {
 }
 
 /* End Center Ball Styling */
+
+/* Ellipse Styling */
+
+.ellipse {
+    position: absolute;
+    width: 4vw;
+    height: 12vw;
+    border-radius: 50%;
+    border: 0.6vw solid #5ed3f3;
+}
+
+.ellipse1 {
+    transform: rotate(30deg);
+}
+
+.ellipse2 {
+    transform: rotate(-30deg);
+}
+
+.ellipse3 {
+    transform: rotate(90deg);
+}
+
+/* End Ellipse Styling */
