@@ -1,3 +1,6 @@
+
+/* General Styling */
+
 body {
     padding: 0;
     margin: 0;
@@ -7,3 +10,17 @@ body {
     align-items: center;
     background-color: azure;
 }
+
+/* End General Styling */
+
+/* Center Ball Styling */
+
+.ball {
+    position: absolute;
+    width: 2.5vw;
+    height: 2.5vw;
+    border-radius: 50%;
+    background-color: #5ed3f3;
+}
+
+/* End Center Ball Styling */

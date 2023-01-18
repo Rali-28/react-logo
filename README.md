@@ -5,6 +5,8 @@ Practice CSS by following a tutorial from freecodecamp.org
 tutorial link: https://www.freecodecamp.org/news/learn-css-create-the-react-logo/
 
 1 / 18 / 2023
+
+1st
     - Created starter files for the project index.html and style.css
 
     - index.html
@@ -15,7 +17,14 @@ tutorial link: https://www.freecodecamp.org/news/learn-css-create-the-react-logo
         : added the general styling
 ___________________________________________________
 
+2nd
     - index.html
         : added div containers for different parts of the logo
         : .ball 
         : .ellipse and .ellipse1-3
+
+___________________________________________________
+
+3rd 
+    - style.css
+        : added styling for the center ball of the logo
