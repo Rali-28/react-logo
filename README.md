@@ -13,3 +13,9 @@ tutorial link: https://www.freecodecamp.org/news/learn-css-create-the-react-logo
     
     - style.css
         : added the general styling
+___________________________________________________
+
+    - index.html
+        : added div containers for different parts of the logo
+        : .ball 
+        : .ellipse and .ellipse1-3
