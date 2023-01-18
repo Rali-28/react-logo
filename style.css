@@ -9,6 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     background-color: azure;
+    animation: roll 15s linear 0.5s infinite;
 }
 
 /* End General Styling */
@@ -48,3 +49,17 @@ body {
 }
 
 /* End Ellipse Styling */
+
+/* Logo Animation */
+
+@keyframes roll {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* End Logo Animation */

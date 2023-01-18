@@ -35,3 +35,12 @@ ___________________________________________________
     - style.css
         : created the ellipses for the logo
         : added styling for .ellipse and .ellipse1-3
+
+___________________________________________________
+
+5th and Last
+
+    - style.css
+        : added styling for ellipses to rotate
+
+<-- End -->
