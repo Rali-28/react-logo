@@ -44,3 +44,29 @@ ___________________________________________________
         : added styling for ellipses to rotate
 
 <-- End -->
+
+Things I learned: 
+
+    - position: absolute;
+        : element will be removed from the web page's normal flow
+        : it will first find another 'position'ed parent (must be non-static), if none are found then it will follow the viewport
+            "thank you Bro Code"
+            https://www.youtube.com/watch?v=Pp7UXS3P6jY
+
+    - vw (viewport width) and vh (viewport height)
+        : vw will set an elements's size to 1% of the viewport's width
+            ex. 20vw = 20% of the viewports vwidth
+        : vh will set an elements's size to 1% of the viewport's height
+            ex. 80vh = 80% of the viewports height
+    
+    - viewport
+        : it is the user's visible screen of the web page
+            "thank you w3schools" 
+            https://www.w3schools.com/css/css_rwd_viewport.asp
+
+    - @keyframes animationname {
+        from: {}
+        to: {}
+    }
+        : to use the animation = animation: name duration timing-function delay iteration
+        : a neat css trick to create animations
